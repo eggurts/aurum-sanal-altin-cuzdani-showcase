@@ -5,7 +5,7 @@ Bu proje, kullanıcıların fiziksel altın yatırımlarını dijital ortamda ka
 Önemli Not: Bu uygulamanın kaynak kodları, veri güvenliği ve Play Store yayın hakları sebebiyle **Private (Gizli)** bir depoda tutulmaktadır. Bu depo, uygulamanın özelliklerini, kullanılan teknolojileri ve arayüzünü sergilemek amacıyla bir "Vitrin" (Showcase) olarak hazırlanmıştır. Yetkili kişiler talep ettiği takdirde kaynak koda erişim sağlanabilir.
 
 Temel Özellikler
-Canlı Piyasa Verileri: Dış bir REST API üzerinden anlık altın kurlarını çekerek portföy değerini saniyesi saniyesine hesaplar.
+**Canlı Piyasa Verileri:** Dış bir REST API üzerinden anlık altın kurlarını çekerek portföy değerini saniyesi saniyesine hesaplar.
 Akıllı Altın Hesap Makinesi: Kullanıcının girdiği nakit bütçeye (örn: 10.000 TL) göre alınabilecek en verimli altın sepetini (Gram, Çeyrek, Yarım vb.) algoritmik olarak hesaplar ve önerir.
 Üst Düzey Güvenlik (PIN):Kullanıcıların finansal verilerini korumak için özel PIN giriş mekanizması entegre edilmiştir.
 Çoklu Kullanıcı (Multi-User) Desteği: Aynı cihaz üzerinden farklı profillerin kendi portföylerini bağımsız ve güvenli bir şekilde yönetmesine olanak tanır.
